@@ -1,0 +1,16 @@
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Debug\Kvas.exe.config
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Debug\Kvas.exe
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Debug\Kvas.pdb
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.csproj.AssemblyReference.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.Form1.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.Properties.Resources.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.csproj.GenerateResource.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.csproj.CoreCompileInputs.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.exe
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.pdb
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Debug\Interop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Interop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Debug\Kvas.csproj.ResolveComReference.cache
