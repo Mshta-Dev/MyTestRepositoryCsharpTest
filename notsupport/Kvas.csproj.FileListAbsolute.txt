@@ -1,0 +1,14 @@
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Release\ZakamSky.exe.config
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Release\ZakamSky.exe
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Release\Interop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\bin\Release\AxInterop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.csproj.AssemblyReference.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Interop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\AxInterop.WMPLib.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.csproj.ResolveComReference.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.Form1.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.Properties.Resources.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.csproj.GenerateResource.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\Kvas.csproj.CoreCompileInputs.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\Kvas\Kvas\obj\Release\ZakamSky.exe
